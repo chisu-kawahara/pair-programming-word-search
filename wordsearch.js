@@ -6,4 +6,4 @@ const wordSearch = (letters, word) => {
     return false;
 }
 
-module.exports = wordSearch
+module.exports = wordSearch;
